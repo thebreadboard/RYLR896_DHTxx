@@ -1,3 +1,4 @@
+/*
 REYAX RYLR869 example sketch with supporting role from a DHT22 Temperature and Humidity Sensor
 
 This works with PlatformIO or Arduino IDE
