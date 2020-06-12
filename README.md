@@ -1,4 +1,4 @@
- REYAX RYLR869 example sketch
+ REYAX RYLR869 example sketch with supporting role from a DHT22 Temperature and Humidity Sensor
 
 More videos and tutorials http://www.youtube.com/thebreadboardca
 my website                https://www.thebreadboard.ca
