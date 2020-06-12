@@ -1,5 +1,11 @@
 /* REYAX RYLR869 example sketch
 
+More videos and tutorials http://www.youtube.com/thebreadboardca
+my website                https://www.thebreadboard.ca
+github                    https://https://github.com/thebreadboard
+support me on Patrion     https://www.patreon.com/thebreadboard
+or paypal me              https://paypal.me/thebreadboardca
+
   This sketch shows how to use the REYAX RYLR869 LoRa transceiver
   as an IOT connection. it does not use end to end handshaking
   or specific addresses and Network IDs (this will be in the next version)
